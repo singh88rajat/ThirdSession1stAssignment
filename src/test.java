@@ -12,5 +12,6 @@ public class test {
 
 }
 /* 
-Its showing "Selection doesn't contain a main type" error while running the program.
+Its showing "Selection doesn't contain a main type" error while running the 
+program. So the answer will be "a. Compiler Error"
 */
